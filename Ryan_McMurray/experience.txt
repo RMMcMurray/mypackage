@@ -1,1 +1,1 @@
-I have never used git through the terminal before. I have always used git desktop or the built-in git in visual studio. I am adding this sentence to get upstream of the origin.
+I have never used git through the terminal before. I have always used git desktop or the built-in git in visual studio.
